@@ -53,3 +53,10 @@ Check out the video, where I have also explained this in a video tutorial that c
   <a href="https://www.youtube.com/watch?v=mRaun_Q96FI"><img src="https://img.youtube.com/vi/mRaun_Q96FI/0.jpg" alt="Docker Tutorial - Gettting started with Grafnaa Alloy | Grafana Loki (Promtail) Migration guide."></a>
 </div>
 
+### For New users
+
+💡If you are new to Docker, Grafana and Linux and interested in learning from scratch to build the right foundation, then here are the links to the complete tutorials:
+
+- ➡️ [How to install Linux on a virtual machine](https://www.youtube.com/watch?v=-VAITfYziBM)
+- ➡️ [How to install Docker on Linux (or on a virtual machine)](https://www.youtube.com/watch?v=LsBzyvCFmkQ)
+- ➡️ [Understanding and Using Grafana on Docker](https://www.youtube.com/watch?v=wL1mUDYgDK4)
