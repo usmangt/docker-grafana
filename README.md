@@ -50,7 +50,7 @@ Here is the link to the documentation that explains in more details:
 Check out the video, where I have also explained this in a video tutorial that covers everything from basic steps to advanced troubleshooting
 
 <div align="center">
-  <a href="https://www.youtube.com/watch?v=mRaun_Q96FI"><img src="https://img.youtube.com/vi/mRaun_Q96FI/0.jpg" alt="Docker Tutorial - Gettting started with Grafnaa Alloy | Grafana Loki (Promtail) Migration guide."></a>
+  <a href="https://www.youtube.com/watch?v=3W99Go4S39E"><img src="https://img.youtube.com/vi/3W99Go4S39E/0.jpg" alt="Docker Tutorial - Gettting started with Grafnaa Alloy | Grafana Loki (Promtail) Migration guide."></a>
 </div>
 
 ### For New users
