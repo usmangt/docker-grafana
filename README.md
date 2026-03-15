@@ -43,7 +43,8 @@ Here are some useful links as how to get started by understanding the fundamenta
 
 ### Link to Documentation
 
-Here is the link to the documentation that explains in more details:
+Here is the [link](https://medium.com/@syed_usman_ahmed/docker-users-who-use-grafana-loki-with-promtail-need-to-migrate-to-grafana-alloy-as-promtail-the-a20a98ee2f15) to the documentation that explains in more details:
+
 
 ### Link to Video
 
